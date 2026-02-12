@@ -20,7 +20,7 @@ Separar el sistema operativo de los datos usando discos gestionados (Managed Dis
 ## Evidencias
 
 ### 01 - Disco de datos visible y adjunto en Azure
-<img src="images/01-disks-azure.png" width="800">
+<img src="images/01-disks-azure2.png" width="800">
 
 Se muestra el disco de datos adjuntado a la VM desde el portal de Azure.
 
